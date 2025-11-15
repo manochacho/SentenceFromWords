@@ -10,12 +10,13 @@
 
 # eksempel
 input:
-Enter words of a sentence one by one including punctuation:
+```Enter words of a sentence one by one including punctuation:
 jeg
 er
 så
 glad
 idag.
+```
 
 output:
-<jeg er så glad idag.>
+```<jeg er så glad idag.>```
